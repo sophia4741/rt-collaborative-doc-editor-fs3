@@ -54,6 +54,45 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [Project Information](#-project-information)
+- [About Project](#-about-project)
+- [Articles & Blogs](#-articles--blogs)
+- [Project Overview](#-project-overview)
+- [Problem Statement](#-problem-statement)
+- [Core Features](#-core-features)
+- [Real-Time Collaboration](#-real-time-collaboration)
+- [Document Management](#-document-management)
+- [Authentication & Access](#-authentication--access)
+- [Roles & Permissions](#-roles--permissions)
+- [System Architecture](#-system-architecture)
+- [Project Structure](#-project-structure)
+- [Socket.IO Events](#-socketio-events)
+- [Client to Server](#client--server)
+- [Server to Client](#server--client)
+- [Quick Start](#-quick-start)
+- [Prerequisites](#prerequisites)
+- [Clone the Repository](#1-clone-the-repository)
+- [Install All Dependencies](#2-install-all-dependencies)
+- [Configure Environment Variables](#3-configure-environment-variables)
+- [Run Development Servers](#4-run-development-servers)
+- [Firebase Integration Guide](#-firebase-integration-guide)
+- [REST API Overview](#-rest-api-overview)
+- [Available Scripts](#-available-scripts)
+- [Deployment Guide](#-deployment-guide)
+- [Frontend Deployment](#frontend--vercel--netlify)
+- [Backend Deployment](#backend--railway--render)
+- [Future Improvements](#-future-improvements)
+- [Troubleshooting](#-troubleshooting)
+- [Commit Convention](#commit-convention)
+- [Screenshots](#-screenshots)
+- [License](#-license)
+- [Developer](#-developer)
+
+
+---
+
 ## 📖 About Project
 
 A **full-stack real-time collaborative document editor** built with React, Node.js, Express, Socket.io and Firebase. It allows multiple users to edit documents simultaneously with **live synchronization**, secure authentication, role-based access and real-time user presence tracking for a smooth collaborative experience.
